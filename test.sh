@@ -1,0 +1,1 @@
+python test.py --dataset_path  /home/sd/Harddisk/zj/control/ControlNet/HR-VITON --dataset vitonhd --test_order paired
