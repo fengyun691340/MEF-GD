@@ -12,7 +12,8 @@ https://github.com/user-attachments/assets/60b15e92-b1d1-477d-86ad-6c631592b712
 
     conda env create -f environment.yaml
     conda activate MEFGD
-
+## Checkpoint
+Checkpoint is shared via Baidu Netdisk for easy access. The download link is ["checkpoint"](https://pan.baidu.com/s/1mu1RNkPykXFB_8RS0sxapA?pwd=zvy2), with the extraction code: zvy2
 ## Test
     sh test.sh 
 ## Prepare weights
